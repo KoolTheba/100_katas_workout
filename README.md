@@ -9,6 +9,7 @@ Keep your Javascript skills fit 🏋🏻‍♀️ with a non-sweat 🧘‍♀️
 </span>
 </br>
 
+
 ## Where to find katas to train?
 
 - [CodeWars](https://www.codewars.com/)
@@ -32,5 +33,12 @@ From my experience, it's one of the best things you can spend your time on, no m
 
 Solving quick programming problems helps delving into your favorite programming language and get to know its artifacts, and build your knowledge foundations! It's also a great approach to algorithms.
 
-But, you know, it's just my experience as a SWE and mentor! What you do, it's eventually up 2U! 🤓
+But, you know, it's just my short experience as a SWE and mentor! What you do, it's eventually up 2U! 🤓
+
+## Important! 👇
+🚸 This repo is a work in progress. I'll be continiously updating the repo with new katas and the readme file with more links and interesting stuff.
+
+🙏 Thanks for passing by! This is a well intentioned repository that exposes my logic skills. 
+
+📛  Please do not come over to show-off your greatness and you magnificent skills trying to stain other's work. 👉 Your kind feedback is highly appreciate it!
 
