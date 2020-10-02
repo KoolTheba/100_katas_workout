@@ -9,6 +9,15 @@ Keep your Javascript skills fit 🏋🏻‍♀️ with a non-sweat 🧘‍♀️
 </span>
 </br>
 
+## What can you do with this repo?
+1. Check the katas I solved in the folder named after their level at Codewars (Level 7, 6...)
+2. Check the hashtags underneath each link. Those are the same as in Codewars
+3. Sign up in Codewars!
+4. You can copy the katas' links and paste it in your fav browser, press the train botton and solved it like a boss 🚀
+5. Think about it as a daily/weekly/frequent-as-U-want chanllenge and keep it up!
+
+> I hope this is as motivational as it is for me 😻
+
 
 ## Where to find katas to train?
 
