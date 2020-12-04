@@ -20,3 +20,8 @@
   - Tags: #fundamentals #strings
   - [Link to Kata](https://www.codewars.com/kata/546f922b54af40e1e90001da)
   - [My solution](https://github.com/KoolTheba/100_katas_workout/blob/main/katas_level6/replace_alphabet_position.js)
+
+- **Which are in**
+  - Tags: #ARRAYS #SEARCH #ALGORITHMS #LISTS #STRINGS
+  - [Link to Kata](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
+  - [My solution](https://github.com/KoolTheba/100_katas_workout/blob/main/katas_level6/which_are_in.js)
