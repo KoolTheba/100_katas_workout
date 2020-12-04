@@ -12,8 +12,8 @@ Keep your Javascript skills fit 🏋🏻‍♀️ with a non-sweat 🧘‍♀️
 ## What can you do with this repo?
 1. Check the katas I solved in the folder named after their level at Codewars (Level 7, 6...). Have a look into their new `readme.md` for easy navigation:
 
-- Check [katas level 7 readme]()
-- Check [katas level 6 readme]()
+- Check [katas level 7 readme](https://github.com/KoolTheba/100_katas_workout/blob/main/katas_level7/README.md)
+- Check [katas level 6 readme](https://github.com/KoolTheba/100_katas_workout/blob/main/katas_level6/README.md)
 
 2. Check the hashtags. Represents the kind of topic that you're going to train. They are clasified as in Codewars
 3. Sign up in Codewars if haven't done it already 👩‍🎤
