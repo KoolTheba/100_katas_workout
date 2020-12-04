@@ -10,14 +10,17 @@ Keep your Javascript skills fit 🏋🏻‍♀️ with a non-sweat 🧘‍♀️
 </br>
 
 ## What can you do with this repo?
-1. Check the katas I solved in the folder named after their level at Codewars (Level 7, 6...)
-2. Check the hashtags underneath each link. Those are the same as in Codewars
-3. Sign up in Codewars!
+1. Check the katas I solved in the folder named after their level at Codewars (Level 7, 6...). Have a look into their new `readme.md` for easy navigation:
+
+- Check [katas level 7 readme]()
+- Check [katas level 6 readme]()
+
+2. Check the hashtags. Represents the kind of topic that you're going to train. They are clasified as in Codewars
+3. Sign up in Codewars if haven't done it already 👩‍🎤
 4. You can copy the katas' links and paste it in your fav browser, press the train botton and solved it like a boss 🚀
 5. Think about it as a daily/weekly/frequent-as-U-want chanllenge and keep it up!
 
 > I hope this is as motivational as it is for me 😻
-
 
 ## Where to find katas to train?
 
