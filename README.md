@@ -38,7 +38,7 @@ Based on TDD, train your Javascript ES6 skills and eagle sight 🦅 with these d
 
 - [Kata-log for Pair Programming](https://kata-log.rocks/pair-programming)
 
-- [Free Code Camp - The 10 Most Popular Coding Challenge Websites (Updated for 2020)](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
+- [Free Code Camp - The 10 Most Popular Coding Challenge Websites (Updated for 2021)](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
 
 ## Why do I need to train with katas?
 From my experience, it's one of the best things you can spend your time on, no matter your programming level.
